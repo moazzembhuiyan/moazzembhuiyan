@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Moazzem%20Hossen%20Bhuiyan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Moazzem Hossen Bhuiyan — Mobile App Developer, Web Developer, AI-Powered Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=📱+React+Native+App+Developer+(iOS+%26+Android);🌐+Full-Stack+Web+Developer;⚛️+React+Native+%7C+Next.js+%7C+React;🚀+From+idea+to+App+Store+%26+Production" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Mobile_App_Developer-iOS_%26_Android-0EA5E9?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Developer-Full_Stack-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
+<img src="assets/typing.svg" alt="React Native App Developer | Full-Stack Web Developer | Building faster with Agentic AI" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=moazzembhuiyan&style=flat-square&color=38BDF8&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Full--time-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_work-Freelance_and_Full_time-22C55E?style=flat-square" alt="Open to work" />
   <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:moazzembhuiyan394@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -22,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Mobile App & Web Developer** who builds fast, beautiful and scalable products — from pixel-perfect UI to production-ready apps.
+I'm a **Mobile App & Web Developer** who builds fast, beautiful and scalable products — from pixel-perfect UI to production-ready apps. I work hand-in-hand with **agentic AI tools** to plan, build, test and ship faster without compromising quality.
 
 ```ts
 const moazzem = {
@@ -30,6 +25,7 @@ const moazzem = {
   mobile: ["React Native", "Expo", "iOS & Android"],
   web: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "Express", "MongoDB", "Firebase", "REST & Realtime APIs"],
+  ai: ["Claude Code", "Cursor", "GitHub Copilot", "ChatGPT", "MCP", "Agentic Workflows"],
   focus: ["Clean UI/UX", "Performance", "Scalable Architecture"],
   currentlyBuilding: "Cross-platform apps & admin dashboards",
 };
@@ -47,6 +43,7 @@ const moazzem = {
 - Push notifications, maps, payments & camera integration
 - Offline storage, auth & secure API integration
 - **Play Store & App Store** build and deployment
+- AI-assisted development for faster delivery
 
 </td>
 <td width="50%" valign="top">
@@ -61,6 +58,35 @@ const moazzem = {
 </td>
 </tr>
 </table>
+
+## 🤖 AI-Powered Development
+
+<table>
+<tr>
+<td valign="top">
+
+I'm comfortable working with **agentic AI** across the whole development cycle — not just autocomplete:
+
+- 🧠 **Planning & architecture** — turning Figma designs and requirements into clear build plans
+- ⚡ **Rapid building** — scaffolding screens, APIs, dashboards and full features with AI agents
+- 🔍 **Code review, debugging & refactoring** with AI assistance
+- 🧪 **Writing tests & documentation** automatically
+- 🔗 **MCP & tool integrations** — connecting AI to GitHub, Figma, browsers and APIs
+- ✍️ **Prompt engineering** for reliable, production-quality output
+
+</td>
+</tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/MCP-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+</p>
+
+`Agentic Workflows` `AI Code Review` `Prompt Engineering` `Figma to Code with AI` `AI Testing & Docs` `MCP Servers`
 
 ## 🛠️ Tech Stack
 
@@ -95,8 +121,6 @@ const moazzem = {
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=moazzembhuiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazzembhuiyan&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=moazzembhuiyan&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
@@ -115,6 +139,3 @@ const moazzem = {
   <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" alt="footer" />
-</div>
