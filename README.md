@@ -6,6 +6,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=moazzembhuiyan&style=flat-square&color=38BDF8&label=Profile+Views" alt="profile views" />
+  <img src="https://img.shields.io/badge/Experience-Since_2024-38BDF8?style=flat-square" alt="Experience since 2024" />
   <img src="https://img.shields.io/badge/Open_to_work-Freelance_and_Full_time-22C55E?style=flat-square" alt="Open to work" />
   <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:moazzembhuiyan394@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -19,9 +20,16 @@
 
 I'm a **Mobile App & Web Developer** who builds fast, beautiful and scalable products — from pixel-perfect UI to production-ready apps. I work hand-in-hand with **agentic AI tools** to plan, build, test and ship faster without compromising quality.
 
+- 💼 **Building professionally since 2024** — websites, admin dashboards and mobile apps for real clients
+- 🌍 Delivered projects across e-commerce, delivery, travel, booking, wellness and SaaS platforms
+- 🤝 Comfortable working with teams, backend developers and designers (Figma to code)
+
+> 📌 **Note:** This is my new GitHub home. Much of my earlier work since 2024 was built in client-owned or private repositories, so you'll see my latest projects here.
+
 ```ts
 const moazzem = {
   role: ["Mobile App Developer", "Web Developer"],
+  experience: "Since 2024",
   mobile: ["React Native", "Expo", "iOS & Android"],
   web: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "Express", "MongoDB", "Firebase", "REST & Realtime APIs"],
