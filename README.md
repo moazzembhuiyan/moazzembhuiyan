@@ -98,31 +98,73 @@ I'm comfortable working with **agentic AI** across the whole development cycle �
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&theme=dark" />
-</p>
+<div align="center">
 
-`React Native` `Expo` `Expo Router` `NativeWind` `React Navigation` `Reanimated` `Gesture Handler` `Push Notifications` `In-App Payments`
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&perline=6&theme=dark" />
+
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Reanimated-6B52AE?style=flat-square&logo=react&logoColor=white" />
+
+<sub>React Navigation · Gesture Handler · Push Notifications · In-App Payments</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,bootstrap,materialui,redux,vite&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,vite&perline=6&theme=dark" />
 
-`shadcn/ui` `Radix UI` `Ant Design` `Framer Motion` `GSAP` `React Hook Form` `Zod` `Redux Toolkit` `RTK Query` `Recharts` `Chart.js`
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+
+<sub>Radix UI · Ant Design · React Hook Form · Zod · RTK Query · Recharts · Chart.js</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 
 ### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase,supabase,graphql&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=prisma,firebase,supabase,graphql&perline=5&theme=dark" />
 
-`REST API` `Socket.IO` `JWT Auth` `Mongoose`
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+
+<sub>REST API · Realtime APIs</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
 
 ### 🧰 Tools & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel,netlify,docker,npm,pnpm&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,npm,pnpm&perline=5&theme=dark" />
+
+<img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+<img src="https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white" />
+
+<sub>CI/CD · Store Deployment · Figma to Code</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/🚀_Currently_Exploring-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Servers-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native_New_Arch-38BDF8?style=for-the-badge&logo=react&logoColor=black" />
+
+</div>
 
 ## 📈 GitHub Stats
 
