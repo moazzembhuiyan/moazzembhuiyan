@@ -6,8 +6,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=moazzembhuiyan&style=flat-square&color=38BDF8&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/badge/Experience-Since_2024-38BDF8?style=flat-square" alt="Experience since 2024" />
-  <img src="https://img.shields.io/badge/Open_to_work-Freelance_and_Full_time-22C55E?style=flat-square" alt="Open to work" />
+  <img src="assets/badge-experience.svg" alt="Experience since 2024" />
+  <img src="assets/badge-open.svg" alt="Open to work" />
   <a href="https://www.linkedin.com/in/moazzem-hossen-bhuiyan-325432331/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:moazzembhuiyan394@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
