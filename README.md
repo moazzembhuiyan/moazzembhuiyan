@@ -96,34 +96,44 @@ I'm comfortable working with **agentic AI** across the whole development cycle �
 
 `Agentic Workflows` `AI Code Review` `Prompt Engineering` `Figma to Code with AI` `AI Testing & Docs` `MCP Servers`
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+<div align="center"> <table> <tr> <td align="center" width="50%" valign="top"> <br>
+📱 Mobile
+<p> <img width="230" src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&perline=6&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Reanimated-6B52AE?style=flat-square&logo=react&logoColor=white" /> </p>
 
-### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&theme=dark" />
-</p>
+<sub>React Navigation · Gesture Handler · Push Notifications · In-App Payments</sub>
 
-`React Native` `Expo` `Expo Router` `NativeWind` `React Navigation` `Reanimated` `Gesture Handler` `Push Notifications` `In-App Payments`
+<br><br>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,sass,bootstrap,materialui,redux,vite&theme=dark" />
-</p>
+</td> <td align="center" width="50%" valign="top"> <br>
+🌐 Frontend
+<p> <img width="230" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux&perline=6&theme=dark" /> <br><br> <img width="230" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,vite&perline=6&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /> </p>
 
-`shadcn/ui` `Radix UI` `Ant Design` `Framer Motion` `GSAP` `React Hook Form` `Zod` `Redux Toolkit` `RTK Query` `Recharts` `Chart.js`
+<sub>Radix UI · Ant Design · React Hook Form · Zod · RTK Query · Recharts · Chart.js</sub>
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase,supabase,graphql&theme=dark" />
-</p>
+<br><br>
 
-`REST API` `Socket.IO` `JWT Auth` `Mongoose`
+</td> </tr> <tr> <td align="center" width="50%" valign="top"> <br>
+⚙️ Backend & Database
+<p> <img width="192" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=5&theme=dark" /> <br><br> <img width="153" src="https://skillicons.dev/icons?i=prisma,firebase,supabase,graphql&perline=4&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /> </p>
 
-### 🧰 Tools & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel,netlify,docker,npm,pnpm&theme=dark" />
-</p>
+<sub>REST API · Realtime APIs</sub>
 
+<br><br>
+
+</td> <td align="center" width="50%" valign="top"> <br>
+🧰 Tools & Deployment
+<p> <img width="192" src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5&theme=dark" /> <br><br> <img width="192" src="https://skillicons.dev/icons?i=vercel,netlify,docker,npm,pnpm&perline=5&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white" /> </p>
+
+<sub>CI/CD · Store Deployment · Figma to Code</sub>
+
+<br><br>
+
+</td> </tr> </table> <br>
+
+<img src="https://img.shields.io/badge/🚀_Currently_Exploring-0F172A?style=for-the-badge" />  <img src="https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge&logo=claude&logoColor=white" />  <img src="https://img.shields.io/badge/MCP_Servers-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white" />  <img src="https://img.shields.io/badge/RN_New_Arch-38BDF8?style=for-the-badge&logo=react&logoColor=black" />
+
+</div>
 ## 📈 GitHub Stats
 
 <div align="center">
