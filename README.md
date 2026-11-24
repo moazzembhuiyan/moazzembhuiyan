@@ -96,7 +96,7 @@ I'm comfortable working with **agentic AI** across the whole development cycle �
 
 `Agentic Workflows` `AI Code Review` `Prompt Engineering` `Figma to Code with AI` `AI Testing & Docs` `MCP Servers`
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 <div align="center"> <table> <tr> <td align="center" width="50%" valign="top"> <br>
 📱 Mobile
 <p> <img width="230" src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&perline=6&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Reanimated-6B52AE?style=flat-square&logo=react&logoColor=white" /> </p>
