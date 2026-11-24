@@ -96,7 +96,7 @@ I'm comfortable working with **agentic AI** across the whole development cycle �
 
 `Agentic Workflows` `AI Code Review` `Prompt Engineering` `Figma to Code with AI` `AI Testing & Docs` `MCP Servers`
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 <div align="center"> <table> <tr> <td align="center" width="50%" valign="top"> <br>
 📱 Mobile
 <p> <img width="230" src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple&perline=6&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Reanimated-6B52AE?style=flat-square&logo=react&logoColor=white" /> </p>
@@ -134,6 +134,7 @@ I'm comfortable working with **agentic AI** across the whole development cycle �
 <img src="https://img.shields.io/badge/🚀_Currently_Exploring-0F172A?style=for-the-badge" />  <img src="https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge&logo=claude&logoColor=white" />  <img src="https://img.shields.io/badge/MCP_Servers-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white" />  <img src="https://img.shields.io/badge/RN_New_Arch-38BDF8?style=for-the-badge&logo=react&logoColor=black" />
 
 </div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
